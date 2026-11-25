@@ -1,6 +1,6 @@
 # Hi, I'm Sohila Ebrahim 👋
 
-### Full Stack Software Developer | Web, Mobile & Back-End
+### Full Stack Software Engineer | Web, Mobile & Back-End
 
 I build **fast, scalable web and mobile products**, from polished, animated front-ends to solid back-ends, APIs and admin dashboards.
 
@@ -12,8 +12,8 @@ Since 2023 I've worked as a Software Developer for clients in the **United State
 
  Experience
 
-- **Software Developer, UAE clients** (2025 to now): websites and digital products for businesses in the United Arab Emirates
-- **Software Developer, US clients, Texas / Dallas** (2023 to 2025): web apps, mobile apps and back-end APIs for US businesses
+- **Software Engineer, UAE clients** (2025 to now): websites and digital products for businesses in the United Arab Emirates
+- **Software Engineer, US clients, Texas / Dallas** (2023 to 2025): web apps, mobile apps and back-end APIs for US businesses
 
 ---
 
