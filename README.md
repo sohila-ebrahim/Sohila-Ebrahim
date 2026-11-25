@@ -112,19 +112,19 @@ I turn business needs into products people enjoy using.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sohila-portfolio-ten.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohilaebrahim6789@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohilaebrahim00)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohila-ebrahim)
 [![Download CV](https://img.shields.io/badge/Download_CV-8A2BE2?style=for-the-badge&logo=readdotcv&logoColor=white)](https://sohila-portfolio-ten.vercel.app/cv/Sohila-Ebrahim-CV.pdf)
 
 ---
 
 ##  GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=sohilaebrahim00&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=sohila-ebrahim&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=sohilaebrahim00&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=sohila-ebrahim&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohilaebrahim00&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohila-ebrahim&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sohilaebrahim00&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/sohilaebrahim00)
+[![Profile Views](https://komarev.com/ghpvc/?username=sohila-ebrahim&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/sohila-ebrahim)
