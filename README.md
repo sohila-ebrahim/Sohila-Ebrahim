@@ -6,29 +6,29 @@ I build **fast, scalable web and mobile products**, from polished, animated fron
 
 Since 2023 I've worked as a Software Developer for clients in the **United States (Texas, Dallas)** and, since 2025, the **United Arab Emirates**, shipping roadside assistance platforms, chauffeur booking apps, restaurants with online ordering, e-commerce stores and immersive 3D experiences.
 
-🌐 **Portfolio:** [sohila-portfolio-ten.vercel.app](https://sohila-portfolio-ten.vercel.app) • 📄 **CV:** [Download](https://sohila-portfolio-ten.vercel.app/cv/Sohila-Ebrahim-CV.pdf)
+ **Portfolio:** [sohila-portfolio-ten.vercel.app](https://sohila-portfolio-ten.vercel.app) • 📄 **CV:** [Download](https://sohila-portfolio-ten.vercel.app/cv/Sohila-Ebrahim-CV.pdf)
 
 ---
 
-## 💼 Experience
+ Experience
 
 - **Software Developer, UAE clients** (2025 to now): websites and digital products for businesses in the United Arab Emirates
 - **Software Developer, US clients, Texas / Dallas** (2023 to 2025): web apps, mobile apps and back-end APIs for US businesses
 
 ---
 
-## 🛠️ What I Build
+What I Build
 
-- 🌐 **Websites & Web Apps**: responsive, accessible, performance-first experiences with Next.js and React
-- ✨ **Motion & Interaction**: scroll-driven storytelling with GSAP, Lenis and Three.js
-- 🛒 **E-commerce**: online stores with Stripe checkout and 3D product scenes
-- 📱 **Mobile Apps**: cross-platform apps with React Native, Expo, Flutter and Capacitor
-- ⚙️ **Back-End & APIs**: REST and real-time APIs with Node.js, Express, NestJS and PostgreSQL
-- 📊 **Dashboards & Integrations**: admin panels, live maps, analytics, payments and SMS
+- Websites & Web Apps**: responsive, accessible, performance-first experiences with Next.js and React
+- Motion & Interaction**: scroll-driven storytelling with GSAP, Lenis and Three.js
+- E-commerce**: online stores with Stripe checkout and 3D product scenes
+- Mobile Apps**: cross-platform apps with React Native, Expo, Flutter and Capacitor
+- Back-End & APIs**: REST and real-time APIs with Node.js, Express, NestJS and PostgreSQL
+- Dashboards & Integrations**: admin panels, live maps, analytics, payments and SMS
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -79,7 +79,7 @@ Since 2023 I've worked as a Software Developer for clients in the **United State
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack | Location |
 |---|---|---|---|
@@ -108,7 +108,7 @@ I turn business needs into products people enjoy using.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sohila-portfolio-ten.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohilaebrahim6789@gmail.com)
@@ -117,7 +117,7 @@ I turn business needs into products people enjoy using.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=sohilaebrahim00&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
