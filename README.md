@@ -6,7 +6,7 @@ I build **fast, scalable web and mobile products**, from polished, animated fron
 
 Since 2023 I've worked as a Software Developer for clients in the **United States (Texas, Dallas)** and, since 2025, the **United Arab Emirates**, shipping roadside assistance platforms, chauffeur booking apps, restaurants with online ordering, e-commerce stores and immersive 3D experiences.
 
- **Portfolio:** [sohila-portfolio-ten.vercel.app](https://sohila-portfolio-ten.vercel.app) • 📄 **CV:** [Download](https://sohila-portfolio-ten.vercel.app/cv/Sohila-Ebrahim-CV.pdf)
+ **Portfolio:** [sohila-portfolio-ten.vercel.app](https://sohila-portfolio-ten.vercel.app) •  **CV:** [Download](https://sohila-portfolio-ten.vercel.app/cv/Sohila-Ebrahim-CV.pdf)
 
 ---
 
